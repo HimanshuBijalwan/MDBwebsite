@@ -1,0 +1,30 @@
+.headone{
+	background-color: orangered;
+	text-align: center;
+	color: whitesmoke;
+	padding-top: 6px;
+	padding-bottom: 6px;
+}
+
+.headone .row .col-sm-6 i{
+   margin-right: 10px;
+}
+
+.headone .row .col-sm-6 a{
+   color: white;
+}
+
+.img-logo{
+	padding: 10px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(255 69 0);
+    font-weight: 600;
+    margin-right: 25px;
+}
