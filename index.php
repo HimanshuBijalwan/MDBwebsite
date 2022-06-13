@@ -54,13 +54,9 @@
 
 
   </style>
-  <script>
-$(function () {
-            $("#header-navigation").load("header.html");
-        });
-</script> 
+ 
   <body>
-  <div id="header-navigation"></div>    
+<?php include 'header.php';?>    
 <!-- Flickity HTML init -->
 <div class="carousel"  data-flickity='{ "lazyLoad": true }'>
   <div class="carousel-cell">
