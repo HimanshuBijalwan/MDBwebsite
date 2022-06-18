@@ -54,8 +54,9 @@
 
 
   </style>
+ 
   <body>
-<?php include 'header.php';?>
+<?php include 'header.php';?>    
 <!-- Flickity HTML init -->
 <div class="carousel"  data-flickity='{ "lazyLoad": true }'>
   <div class="carousel-cell">
