@@ -1,7 +1,7 @@
 <header>
 	<div class="container-fluid headone">
 		<div class="row">
-			<div class="col-sm-6"><i class="fas fa-phone-alt"></i> <a href="tel:111111111">+91-1111-222-333</a></div>
+			<div class="col-sm-6"><i class="fas fa-phone-alt"></i> <a href="tel:123">+91 94121 53541</a></div>
 			<div class="col-sm-6"><i class="fas fa-envelope"></i>  <a href="mailto:demo@gmail.com">demo@gmail.com</a></div>
 		</div>
 	</div>
